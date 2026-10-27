@@ -44,6 +44,6 @@
 
 ## Built by
 
-**Matthew Gift Luis**, founder of [Godji Tech](https://godjitech.com) in Midrand, South Africa.
+**Matthew Gift Luis**, Co-Founder of [Godji Tech (PTY) Ltd](https://godjitech.com) in Midrand, South Africa.
 
 [Portfolio](https://webdevmatt-dot.github.io/portfolio/?r=git) · [godjitech.com](https://godjitech.com)
